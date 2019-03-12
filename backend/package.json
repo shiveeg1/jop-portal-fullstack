@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "This is the backend for the job portal app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shivee",
+  "license": "ISC",
+  "dependencies": {
+    "atob": "^2.1.2",
+    "body-parser": "^1.18.3",
+    "btoa": "^1.2.1",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "helmet": "^3.15.1",
+    "mongodb": "^3.1.13",
+    "mongoose": "^5.4.17",
+    "morgan": "^1.9.1"
+  }
+}
