@@ -4,3 +4,4 @@ client/build/*
 client/packaga-lock.json
 backend/package-lock.json
 .vscode/*
+client/.gitignore
